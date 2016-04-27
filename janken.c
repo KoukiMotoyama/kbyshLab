@@ -9,7 +9,7 @@ int getMyHand();
 int getVs(int,int);
 void printResult();
 
-int kouki;
+int kouki3;
 
 int main(){
 }
